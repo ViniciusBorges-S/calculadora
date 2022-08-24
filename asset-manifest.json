@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ViniciusBorges-S/calculadora.git/static/css/main.617ac3b6.css",
+    "main.js": "/ViniciusBorges-S/calculadora.git/static/js/main.563e8eb2.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/ViniciusBorges-S/calculadora.git/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/RobotoMono-VariableFont_wght.ttf": "/ViniciusBorges-S/calculadora.git/static/media/RobotoMono-VariableFont_wght.e1d699e6544d0dbf6ec7.ttf",
+    "index.html": "/ViniciusBorges-S/calculadora.git/index.html",
+    "main.617ac3b6.css.map": "/ViniciusBorges-S/calculadora.git/static/css/main.617ac3b6.css.map",
+    "main.563e8eb2.js.map": "/ViniciusBorges-S/calculadora.git/static/js/main.563e8eb2.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/ViniciusBorges-S/calculadora.git/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.617ac3b6.css",
+    "static/js/main.563e8eb2.js"
+  ]
+}
